@@ -1,5 +1,7 @@
-•Data types, variables, arrays, and operators
-•Control statements
+**Java Fundamentals**
+
+1. Data types, variables, arrays, and operators
+2. Control statements
 •Classes, objects, and methods
 •Method overloading and overriding
 •Inheritance
