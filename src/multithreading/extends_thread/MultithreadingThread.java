@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.extends_thread;
 
 /**
  * Multithreading example with extends from Thread class

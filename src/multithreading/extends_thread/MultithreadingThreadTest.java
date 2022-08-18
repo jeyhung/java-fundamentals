@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.extends_thread;
 
 /**
  * Multithreading example with implements Runnable interface

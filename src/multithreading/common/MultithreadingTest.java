@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.common;
 
 public class MultithreadingTest {
     public static void main(String[] args) throws InterruptedException {
